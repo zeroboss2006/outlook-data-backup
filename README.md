@@ -80,5 +80,8 @@ pause
 
 可使用 scanpst.exe 嘗試修復損毀的 .pst。
 
+---
+
 ### 📚 參考資料
-Microsoft Support: Transfer Outlook Data Files
+
+- [Microsoft Support: Transfer Outlook Data Files](https://support.microsoft.com/en-us/office/find-and-transfer-outlook-data-files-from-one-computer-to-another-0996ece3-57c6-49bc-977b-0d1892e2aacc)
